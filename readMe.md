@@ -1,3 +1,5 @@
+These are the required files to run an NGINX container, to allow you to go from http:localhost to https:thechaindata.com
+
 # Things that helped set this up:
 
 sudo vim /etc/hosts and set 127.0.0.1 local.thechaindata.com
